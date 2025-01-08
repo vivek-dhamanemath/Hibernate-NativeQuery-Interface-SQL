@@ -58,7 +58,3 @@ session.close();
 ### Conclusion
 
 The `NativeQuery` interface is a powerful tool in Hibernate that provides the flexibility to execute native SQL queries. It is particularly useful for complex queries and database-specific features that are not easily handled by HQL or Criteria.
-
-### Conclusion
-
-The `NativeQuery` interface is a powerful tool in Hibernate that provides the flexibility to execute native SQL queries. It is particularly useful for complex queries and database-specific features that are not easily handled by HQL or Criteria.
