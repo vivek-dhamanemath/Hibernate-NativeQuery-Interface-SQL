@@ -44,6 +44,21 @@ session.close();
 - When you need to use database-specific features.
 - When HQL or Criteria are not sufficient for your requirements.
 
+
+### How to Run the Project
+
+1. **Set Up the Database**: Ensure that you have a database set up and configured in your Hibernate configuration file (`hibernate.cfg.xml`).
+
+2. **Compile the Project**: Compile the project using your preferred IDE or build tool (e.g., Maven, Gradle).
+
+3. **Run the Main Class**: Execute the main class that contains the Hibernate session and NativeQuery example.
+
+4. **Check the Output**: Verify the output in the console to see the results of the native SQL query.
+
+### Conclusion
+
+The `NativeQuery` interface is a powerful tool in Hibernate that provides the flexibility to execute native SQL queries. It is particularly useful for complex queries and database-specific features that are not easily handled by HQL or Criteria.
+
 ### Conclusion
 
 The `NativeQuery` interface is a powerful tool in Hibernate that provides the flexibility to execute native SQL queries. It is particularly useful for complex queries and database-specific features that are not easily handled by HQL or Criteria.
